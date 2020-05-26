@@ -1,5 +1,0 @@
----
-Layout: page
-Title: "Hello word"
-Date: 2020-05-26
----
